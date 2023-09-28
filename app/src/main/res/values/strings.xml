@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intent_kotlin</string>
+    <string name="intent">Intent!</string>
+    <string name="first_activity">First Activity</string>
+</resources>
